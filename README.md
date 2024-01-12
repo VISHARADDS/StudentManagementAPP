@@ -1,1 +1,1 @@
-This is a Student Management App for and private University
+This is a Student Management App for an private University
