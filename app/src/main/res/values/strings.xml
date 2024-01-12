@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">StudentManagement_IT21822544</string>
+    <string name="signIn">Sign In</string>
+    <string name="userNameTxt">Username</string>
+    <string name="username">Enter Username</string>
+    <string name="passwordTxt">Password</string>
+    <string name="password">Enter Password</string>
+    <string name="loginBtn">LOGIN</string>
+    <string name="cancelBtn">CANCEL</string>
+    <string name="stdBtn">STUDENTS</string>
+    <string name="staffBtn">STAFF MEMBERS</string>
+    <string name="addStudent">ADD STUDENT</string>
+    <string name="viewStudent">REGISTERED STUDENTS</string>
+    <string name="calendar">UNIVERSITY CALENDER</string>
+    <string name="exam">EXAMINATION RESULTS</string>
+    <string name="application">APPLICATION DETAILS</string>
+    <string name="studentId">STUDENT ID </string>
+    <string name="studentName">STUDENT NAME </string>
+
+    <string name="program">Program </string>
+    <string-array name="spinnerProgram">
+        <item></item>
+        <item>B.Sc (Hons) Information Technology</item>
+        <item>B.Sc (Hons) Computer Science</item>
+        <item>B.Sc (Hons) Computer Systems Engineering </item>
+        <item>B.Sc. (Hons) Engineering </item>
+        <item>BBA (Hons) Business Management </item>
+        <item></item>
+        <item></item>
+
+
+    </string-array>
+    <string name="faculty">Campus/Faculty </string>
+
+    <string-array name="spinnerFaculty">
+        <item>Malabe/Faculty of Computing</item>
+        <item>Malabe/Faculty of Engineering</item>
+        <item>Malabe/Faculty of Business</item>
+    </string-array>
+
+    <string name="semester">Semester</string>
+    <string-array name="spinnerSemester">
+        <item>Y1S1</item>
+        <item>Y1S2</item>
+        <item>Y2S1</item>
+        <item>Y2S2</item>
+        <item>Y3S1</item>
+        <item>Y3S2</item>
+    </string-array>
+
+    <string name="personal">PERSONAL INFORMATION</string>
+    <string name="nic">NIC</string>
+    <string name="stdPass">STUDENT PASSWORD</string>
+
+    <string name="gender">Gender</string>
+    <string-array name="spinnerGender">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+
+    <string name="email">SLIIT EMAIL</string>
+    <string name="mobile">MOBILE NO</string>
+    <string name="admission">ADMISSION DETAILS</string>
+    <string name="address">ADDRESS</string>
+    <string name="intake">INTAKE</string>
+    <string name="day">WEEKEND/WEEKDAY</string>
+    <string name="formAdd">ADD STUDENT</string>
+    <string name="done">DONE</string>
+    <string name="updateStudent">SAVE CHANGES </string>
+    <string name="gpaButton">CALCULATE GPA</string>
+    <string name="stdId">ENTER STUDENT ID</string>
+    <string name="tvSemester">Semester</string>
+    <string-array name="spnSemester">
+        <item></item>
+        <item>Y1S1</item>
+        <item>Y1S2</item>
+    </string-array>
+    <string name="module1">MODULE 1</string>
+    <string name="module2">MODULE 2</string>
+    <string name="module3">MODULE 3</string>
+    <string name="main">PROFILE</string>
+    <string name="Exam">RESULTS</string>
+    <string name="event">CALENDER</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

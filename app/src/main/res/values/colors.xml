@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="loginBtn">#255282</color>
+    <color name="cancelBtn">#255282</color>
+    <color name="stdBack">#255282</color>
+    <color name="stdBtn">#255282</color>
+    <color name="staffBtn">#255282</color>
+    <color name="btn">#255282</color>
+    <color name="formAdd">#255282</color>
+</resources>
